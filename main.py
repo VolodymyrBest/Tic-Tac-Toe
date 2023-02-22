@@ -1,6 +1,6 @@
 from random import choice
 
-# Игра крестики-нолики
+
 class Game:
 
     def __init__(self, x, y):
